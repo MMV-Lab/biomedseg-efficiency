@@ -6,6 +6,8 @@ Code for the paper:
 > A Study of Redundancy and Forgetting with Cellpose**  
 > Shuo Zhao, Jianxu Chen, IEEE BIBM 2025.
 
+Preprint: https://arxiv.org/abs/2511.04803
+
 ---
 
 ## Overview
